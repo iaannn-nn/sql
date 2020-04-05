@@ -1,0 +1,6 @@
+CREATE TABLE Students (
+	ID INT NOT NULL
+	Name VARCHAR(25)
+	PRIMARY KEY(ID)
+);
+
